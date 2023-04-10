@@ -1,2 +1,8 @@
-# Verilog-16bit-Comparitor
-Verilog project for create 16bit comparitor using 4 bit comparity checker module
+Hello !!!
+	
+	This Project is for Design & Implementation and also Simulation of Verilog Majority Circuit Module .
+
+	A.H.M :)
+
+
+		GoodLuck ^_^
